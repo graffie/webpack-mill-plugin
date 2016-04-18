@@ -1,6 +1,6 @@
 {
   "name": "webpack-mill-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mill themes webpack plugin",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/graffie/webpack-mill-plugin/issues"
   },
-  "homepage": "https://github.com/graffie/webpack-mill-plugin#readme"
+  "homepage": "https://github.com/graffie/webpack-mill-plugin#readme",
+  "dependencies": {
+    "webpack-sources": "^0.1.1"
+  }
 }

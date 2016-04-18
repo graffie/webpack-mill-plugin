@@ -6,4 +6,4 @@
 
 'use strict';
 
-module.exports = requrire('./lib/MillPlugin');
+module.exports = require('./lib/MillPlugin');
